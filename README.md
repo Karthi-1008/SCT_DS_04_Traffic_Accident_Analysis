@@ -1,4 +1,4 @@
-# SKT_DS_04_Traffic_Accident_Analysis
+# PRODIGY_DS_05_Traffic_Accident_Analysis
 Analyze US traffic accident data to identify patterns based on time, weather, and location using Python and data visualization.
 
 <h3>📸 Sample Output from My PyCharm Project</h3>
