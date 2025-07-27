@@ -5,7 +5,7 @@ import folium
 from folium.plugins import HeatMap
 import os
 
-class Class431242000029:
+class Class431242000029: # i used my Collge RollNo. It can be anything
     def __init__(self, filepath):
         print("📁 Loading dataset...")
         self.df = pd.read_csv(filepath)
